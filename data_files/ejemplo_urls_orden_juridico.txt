@@ -1,0 +1,11 @@
+# Archivo de ejemplo con URLs del Orden Jurídico Nacional
+# Una URL por línea, las líneas que empiecen con # son comentarios
+
+# Reglamento General de Deberes Militares
+https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html
+
+# Reglamento de la Cámara de Diputados
+https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html
+
+# Puedes agregar más URLs aquí siguiendo el mismo formato
+# https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo12345.html

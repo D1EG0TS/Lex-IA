@@ -1,0 +1,27 @@
+{
+  "id": "wo88408",
+  "codigo": null,
+  "title": "Documento 88408",
+  "content": "[Contenido no extraído - solo metadatos]",
+  "summary": null,
+  "document_type": "otro",
+  "source": "orden_juridico",
+  "publication_date": "1994-01-12T00:00:00",
+  "effective_date": null,
+  "scraped_at": "2025-08-13T01:23:20.613125",
+  "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html",
+  "pdf_url": null,
+  "metadata": {
+    "codigo": "88408",
+    "scraped_at": "2025-08-13T01:23:20.568876",
+    "extraction_method": "orden_juridico_scraper"
+  },
+  "tags": [],
+  "issuing_entity": null,
+  "department": null,
+  "status": "raw",
+  "processing_notes": null,
+  "sections": [],
+  "embedding_model": null,
+  "chunk_count": null
+}

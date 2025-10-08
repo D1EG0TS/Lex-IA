@@ -1,0 +1,20 @@
+{
+  "id": "wo88719",
+  "titulo": "COPIA - DIARIO OFICIAL",
+  "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88719.html",
+  "tipo": "otro",
+  "fuente": "SCRAPING_EXHAUSTIVO",
+  "fecha_procesamiento": "2025-08-13T18:42:55.015963",
+  "texto_completo": "COPIA - DIARIO OFICIAL Copia DOF 4 - 16 La imagen que se muestra se originó de un proceso de digitalización a partir del original que refleja el estado en que se encuentra. Estamos trabajando para mejorar su calidad visual. Copia DOF 5 - 16 La imagen que se muestra se originó de un proceso de digitalización a partir del original que refleja el estado en que se encuentra. Estamos trabajando para mejorar su calidad visual.",
+  "chunks": [
+    {
+      "chunk_id": 0,
+      "texto": "COPIA - DIARIO OFICIAL Copia DOF 4 - 16 La imagen que se muestra se originó de un proceso de digitalización a partir del original que refleja el estado en que se encuentra. Estamos trabajando para mejorar su calidad visual. Copia DOF 5 - 16 La imagen que se muestra se originó de un proceso de digitalización a partir del original que refleja el estado en que se encuentra. Estamos trabajando para mejorar su calidad visual.",
+      "inicio_palabra": 0,
+      "fin_palabra": 76,
+      "longitud": 424
+    }
+  ],
+  "num_chunks": 1,
+  "longitud_texto": 424
+}

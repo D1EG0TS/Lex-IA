@@ -1,0 +1,82 @@
+{
+  "metadata": {
+    "titulo": "Enlaces Expandidos a Leyes y Reglamentos Federales de México",
+    "descripcion": "Documento expandido con enlaces del Orden Jurídico Nacional",
+    "fecha_generacion": "2025-08-13T14:46:40.892924",
+    "fuente": "Orden Jurídico Nacional - ordenjuridico.gob.mx",
+    "metodo": "Web scraping expandido",
+    "total_enlaces": 9
+  },
+  "leyes_federales": [
+    {
+      "titulo": "Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la\nConstitución Política de los Estados Unidos Mexicanos",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo6028.html",
+      "id": "wo6028",
+      "tipo": "ley",
+      "fecha_publicacion": "2013-04-02T00:00:00",
+      "fuente": "orden_juridico"
+    },
+    {
+      "titulo": "Constitución Política de los Estados Unidos Mexicanos",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo14166.html",
+      "id": "wo14166",
+      "tipo": "constitucion",
+      "descripcion": "Carta Magna de México"
+    },
+    {
+      "titulo": "Ley General de Educación",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo39036.html",
+      "id": "wo39036",
+      "tipo": "ley",
+      "descripcion": "Ley que regula la educación en México"
+    },
+    {
+      "titulo": "Ley General de Educación Superior",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo124400.html",
+      "id": "wo124400",
+      "tipo": "ley",
+      "descripcion": "Ley que regula la educación superior"
+    },
+    {
+      "titulo": "Ley Orgánica del Congreso General",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo16815.html",
+      "id": "wo16815",
+      "tipo": "ley",
+      "descripcion": "Ley que regula el funcionamiento del Congreso"
+    },
+    {
+      "titulo": "Ley General de Instituciones y Procedimientos Electorales",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo95383.html",
+      "id": "wo95383",
+      "tipo": "ley",
+      "descripcion": "Ley electoral federal"
+    },
+    {
+      "titulo": "Ley de Asistencia Social",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo11034.html",
+      "id": "wo11034",
+      "tipo": "ley",
+      "descripcion": "Ley que regula la asistencia social"
+    }
+  ],
+  "reglamentos_federales": [
+    {
+      "titulo": "Reglamento General de Deberes Militares",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html",
+      "id": "wo17186",
+      "tipo": "reglamento",
+      "descripcion": "Reglamento militar federal"
+    },
+    {
+      "titulo": "Reglamento de la Cámara de Diputados",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html",
+      "id": "wo88408",
+      "tipo": "reglamento",
+      "descripcion": "Reglamento interno de la Cámara de Diputados"
+    }
+  ],
+  "decretos": [],
+  "acuerdos": [],
+  "normas": [],
+  "otros": []
+}

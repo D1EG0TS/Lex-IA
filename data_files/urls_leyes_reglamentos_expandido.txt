@@ -1,0 +1,33 @@
+# URLs expandidas de leyes y reglamentos federales
+# Generado desde: enlaces_leyes_reglamentos_expandido.json
+# Fecha: 2025-08-13 14:46:40
+
+# LEYES FEDERALES
+# Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la
+Constitución Polít
+https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo6028.html
+
+# Constitución Política de los Estados Unidos Mexicanos
+https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo14166.html
+
+# Ley General de Educación
+https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo39036.html
+
+# Ley General de Educación Superior
+https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo124400.html
+
+# Ley Orgánica del Congreso General
+https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo16815.html
+
+# Ley General de Instituciones y Procedimientos Electorales
+https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo95383.html
+
+# Ley de Asistencia Social
+https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo11034.html
+
+# REGLAMENTOS FEDERALES
+# Reglamento General de Deberes Militares
+https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html
+
+# Reglamento de la Cámara de Diputados
+https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html

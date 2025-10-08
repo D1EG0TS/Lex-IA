@@ -1,0 +1,1 @@
+"""Modelos de datos de la API Legal Mexicana."""

@@ -1,0 +1,66 @@
+2025-08-13 01:07:05 | ERROR    | src.scrapers.dof_scraper:get_daily_publications:83 - Error obteniendo publicaciones del 13/08/2025: HTTPSConnectionPool(host='www.dof.gob.mx', port=443): Max retries exceeded with url: /index.php?year=2025&month=08&day=13 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1035)')))
+2025-08-13 01:07:05 | ERROR    | src.scrapers.dof_scraper:get_daily_publications:83 - Error obteniendo publicaciones del 12/08/2025: HTTPSConnectionPool(host='www.dof.gob.mx', port=443): Max retries exceeded with url: /index.php?year=2025&month=08&day=12 (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1035)')))
+2025-08-13 01:17:50 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:17:50 | ERROR    | __main__:test_specific_urls:61 - ✗ No se pudo extraer el documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html
+2025-08-13 01:17:52 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:17:52 | ERROR    | __main__:test_specific_urls:61 - ✗ No se pudo extraer el documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html
+2025-08-13 01:17:57 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:17:59 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:18:06 | ERROR    | __main__:test_save_documents:127 - Error guardando documentos: 'LegalDocument' object has no attribute 'document_id'
+2025-08-13 01:18:49 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:18:49 | ERROR    | __main__:test_specific_urls:61 - ✗ No se pudo extraer el documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html
+2025-08-13 01:18:50 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:18:50 | ERROR    | __main__:test_specific_urls:61 - ✗ No se pudo extraer el documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html
+2025-08-13 01:18:54 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:18:56 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:19:05 | ERROR    | __main__:test_save_documents:127 - Error guardando documentos: BaseModel.model_dump_json() got an unexpected keyword argument 'ensure_ascii'
+2025-08-13 01:19:25 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:19:25 | ERROR    | __main__:test_specific_urls:61 - ✗ No se pudo extraer el documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html
+2025-08-13 01:19:26 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:19:26 | ERROR    | __main__:test_specific_urls:61 - ✗ No se pudo extraer el documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html
+2025-08-13 01:19:31 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:19:33 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:22:40 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error
+2025-08-13 01:22:42 | ERROR    | src.scrapers.orden_juridico_scraper:scrape_document_by_url:87 - Error extrayendo documento de https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html: 1 validation error for LegalDocument
+content
+  Value error, El contenido no puede estar vacío [type=value_error, input_value='', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.11/v/value_error

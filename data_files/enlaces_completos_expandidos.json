@@ -1,0 +1,136 @@
+{
+  "metadata": {
+    "titulo": "Lista Expandida de Enlaces - Orden Jurídico Nacional",
+    "descripcion": "Lista expandida basada en documentos existentes y patrones",
+    "fecha_generacion": "2025-08-13T14:54:03.487490",
+    "fuente": "Orden Jurídico Nacional - ordenjuridico.gob.mx",
+    "metodo": "Generación por patrones y verificación",
+    "total_enlaces": 11,
+    "total_leyes_federales": 1,
+    "total_reglamentos_federales": 1,
+    "objetivo_leyes": 302,
+    "objetivo_reglamentos": 135,
+    "porcentaje_leyes": 0.33,
+    "porcentaje_reglamentos": 0.74,
+    "nota": "Esta es una lista expandida basada en patrones conocidos y documentos existentes"
+  },
+  "leyes_federales": [
+    {
+      "titulo": "Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la\nConstitución Política de los Estados Unidos Mexicanos",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo6028.html",
+      "id": "wo6028",
+      "codigo": null,
+      "tipo": "ley",
+      "fuente": "DOCUMENTO_EXISTENTE",
+      "fecha_publicacion": "2013-04-02T00:00:00",
+      "descripcion": ""
+    }
+  ],
+  "reglamentos_federales": [
+    {
+      "titulo": "REGLAMENTO PARA LA PRESTACIÓN DE LOS SERVICIOS DE GUARDERÍA",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo89000.html",
+      "id": "wo89000",
+      "codigo": "89000",
+      "tipo": "reglamento",
+      "fuente": "PATTERN_GENERATION",
+      "fecha_generacion": "2025-08-13T14:53:06.650154",
+      "categoria": "reglamentos_federales"
+    }
+  ],
+  "decretos": [
+    {
+      "titulo": "DECRETO por el que se declara reformado el artículo\n3o. transitorio, del Decreto por el que se reformaron los artículos 30, 32 y 37\nde la Constitución Política de los Estados Unidos Mexicanos, publicado el 20 de\nmarzo de 1997.",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo14166.html",
+      "id": "wo14166",
+      "codigo": null,
+      "tipo": "decreto",
+      "fuente": "DOCUMENTO_EXISTENTE",
+      "fecha_publicacion": "1917-02-05T00:00:00",
+      "descripcion": ""
+    }
+  ],
+  "acuerdos": [],
+  "normas": [],
+  "otros": [
+    {
+      "titulo": "Documento 11034",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo11034.html",
+      "id": "wo11034",
+      "codigo": null,
+      "tipo": "otro",
+      "fuente": "DOCUMENTO_EXISTENTE",
+      "fecha_publicacion": "2004-09-02T00:00:00",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Documento 124400",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo124400.html",
+      "id": "wo124400",
+      "codigo": null,
+      "tipo": "otro",
+      "fuente": "DOCUMENTO_EXISTENTE",
+      "fecha_publicacion": "2021-04-20T00:00:00",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Documento 16815",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo16815.html",
+      "id": "wo16815",
+      "codigo": null,
+      "tipo": "otro",
+      "fuente": "DOCUMENTO_EXISTENTE",
+      "fecha_publicacion": "1999-09-03T00:00:00",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Documento 17186",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17186.html",
+      "id": "wo17186",
+      "codigo": null,
+      "tipo": "otro",
+      "fuente": "DOCUMENTO_EXISTENTE",
+      "fecha_publicacion": "1928-08-31T00:00:00",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Documento 39036",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo39036.html",
+      "id": "wo39036",
+      "codigo": null,
+      "tipo": "otro",
+      "fuente": "DOCUMENTO_EXISTENTE",
+      "fecha_publicacion": "1993-07-13T00:00:00",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Documento 88408",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo88408.html",
+      "id": "wo88408",
+      "codigo": null,
+      "tipo": "otro",
+      "fuente": "DOCUMENTO_EXISTENTE",
+      "fecha_publicacion": "1994-01-12T00:00:00",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Documento 95383",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo95383.html",
+      "id": "wo95383",
+      "codigo": null,
+      "tipo": "otro",
+      "fuente": "DOCUMENTO_EXISTENTE",
+      "fecha_publicacion": "2014-05-23T00:00:00",
+      "descripcion": ""
+    },
+    {
+      "titulo": "Documento Federal wo17000",
+      "url": "https://www.ordenjuridico.gob.mx/Documentos/Federal/html/wo17000.html",
+      "id": "wo17000",
+      "codigo": "17000",
+      "tipo": "documento",
+      "fuente": "PATTERN_GENERATION",
+      "fecha_generacion": "2025-08-13T14:53:06.648983"
+    }
+  ]
+}

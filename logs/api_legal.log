@@ -1,0 +1,276 @@
+2025-08-13 19:21:05.542 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:21:05.542 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:21:06.229 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:21:06.229 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:21:07.234 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:21:07.234 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:21:12.845 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:21:12.845 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:21:12.846 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:21:12.846 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:22:07.668 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Cuáles son los derechos fundamentales en la Constitución Mexicana?...
+2025-08-13 19:22:07.668 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Cuáles son los derechos fundamentales en la Constitución Mexicana?...
+2025-08-13 19:22:08.255 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 3 documentos relevantes
+2025-08-13 19:22:08.255 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 3 documentos relevantes
+2025-08-13 19:22:21.157 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:22:21.157 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:22:21.157 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 3 fundamentos
+2025-08-13 19:22:21.157 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 3 fundamentos
+2025-08-13 19:24:09.850 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:24:09.850 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:24:10.449 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:24:10.449 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:24:11.274 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:24:11.274 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:24:16.107 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:24:16.107 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:24:16.108 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:24:16.108 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:28:20.354 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:28:20.354 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:28:20.964 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:28:20.964 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:28:21.898 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:28:21.898 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:28:26.331 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:28:26.331 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:28:26.332 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:28:26.332 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:28:59.407 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:28:59.407 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:29:00.049 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:29:00.049 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:29:00.804 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:29:00.804 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:29:04.877 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:29:04.877 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:29:04.877 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:29:04.877 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:36:10.417 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Cuáles son los derechos fundamentales establecidos en la Constitución Mexicana?...
+2025-08-13 19:36:10.417 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Cuáles son los derechos fundamentales establecidos en la Constitución Mexicana?...
+2025-08-13 19:36:12.112 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 3 documentos relevantes
+2025-08-13 19:36:12.112 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 3 documentos relevantes
+2025-08-13 19:36:59.456 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:36:59.456 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:36:59.458 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 3 fundamentos
+2025-08-13 19:36:59.458 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 3 fundamentos
+2025-08-13 19:37:39.103 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:37:39.103 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:37:39.700 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:37:39.700 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:37:40.419 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:37:40.419 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:37:44.726 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:37:44.726 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:37:44.727 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:37:44.727 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:37:49.854 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Cuáles son los derechos fundamentales en la Constitución Mexicana?...
+2025-08-13 19:37:49.854 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Cuáles son los derechos fundamentales en la Constitución Mexicana?...
+2025-08-13 19:37:50.074 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 5 documentos relevantes
+2025-08-13 19:37:50.074 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 5 documentos relevantes
+2025-08-13 19:38:38.515 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:38:38.515 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:38:38.518 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 5 fundamentos
+2025-08-13 19:38:38.518 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 5 fundamentos
+2025-08-13 19:38:38.523 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Qué dice el artículo 1 de la Constitución sobre derechos humanos?...
+2025-08-13 19:38:38.523 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Qué dice el artículo 1 de la Constitución sobre derechos humanos?...
+2025-08-13 19:38:38.715 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 5 documentos relevantes
+2025-08-13 19:38:38.715 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 5 documentos relevantes
+2025-08-13 19:39:03.599 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:39:03.599 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:39:03.601 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 5 fundamentos
+2025-08-13 19:39:03.601 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 5 fundamentos
+2025-08-13 19:39:03.609 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Cuáles son las garantías individuales en México?...
+2025-08-13 19:39:03.609 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Cuáles son las garantías individuales en México?...
+2025-08-13 19:39:03.849 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 5 documentos relevantes
+2025-08-13 19:39:03.849 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 5 documentos relevantes
+2025-08-13 19:39:20.205 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:39:20.205 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:39:20.208 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 5 fundamentos
+2025-08-13 19:39:20.208 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 5 fundamentos
+2025-08-13 19:39:22.271 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Qué derechos tienen los ciudadanos mexicanos según la Constitución?...
+2025-08-13 19:39:22.271 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Qué derechos tienen los ciudadanos mexicanos según la Constitución?...
+2025-08-13 19:39:22.422 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 5 documentos relevantes
+2025-08-13 19:39:22.422 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 5 documentos relevantes
+2025-08-13 19:40:02.379 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:40:02.379 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:40:02.380 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 5 fundamentos
+2025-08-13 19:40:02.380 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 5 fundamentos
+2025-08-13 19:40:02.382 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Qué dice la Constitución sobre la libertad de expresión?...
+2025-08-13 19:40:02.382 | INFO     | api_legal:realizar_consulta_legal:266 - Nueva consulta recibida: ¿Qué dice la Constitución sobre la libertad de expresión?...
+2025-08-13 19:40:02.562 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 5 documentos relevantes
+2025-08-13 19:40:02.562 | INFO     | api_legal:buscar_documentos_relevantes:131 - Encontrados 5 documentos relevantes
+2025-08-13 19:40:21.945 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:40:21.945 | INFO     | api_legal:generar_respuesta_legal:187 - Respuesta generada exitosamente con DeepSeek
+2025-08-13 19:40:21.947 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 5 fundamentos
+2025-08-13 19:40:21.947 | INFO     | api_legal:realizar_consulta_legal:311 - Consulta procesada exitosamente con 5 fundamentos
+2025-08-13 19:44:13.896 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:44:13.896 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:44:14.438 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:44:14.438 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:44:15.380 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:44:15.380 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:44:19.447 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:44:19.447 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:44:19.448 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:44:19.448 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:54:23.677 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:54:23.677 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 19:54:24.302 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:54:24.302 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 19:54:25.196 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:54:25.196 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 19:54:29.259 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:54:29.259 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 19:54:29.259 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 19:54:29.259 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:03:58.492 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:03:58.492 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:03:59.166 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:03:59.166 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:04:00.084 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:04:00.084 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:04:05.066 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:04:05.066 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:04:05.067 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:04:05.067 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:04:16.703 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:04:16.703 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:04:17.355 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:04:17.355 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:04:18.175 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:04:18.175 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:04:22.259 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:04:22.259 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:04:22.259 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:04:22.259 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:04:33.886 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:04:33.886 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:04:34.624 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:04:34.624 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:04:35.550 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:04:35.550 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:04:39.623 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:04:39.623 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:04:39.624 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:04:39.624 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:05:09.266 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:05:09.266 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:05:09.966 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:05:09.966 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:05:10.941 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:05:10.941 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:05:15.389 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:05:15.389 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:05:15.390 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:05:15.390 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:06:11.102 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:06:11.102 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:06:11.779 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:06:11.779 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:06:13.354 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:06:13.354 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:06:18.856 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:06:18.856 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:06:18.858 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:06:18.858 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:06:51.372 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:06:51.372 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:06:52.172 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:06:52.172 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:06:53.079 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:06:53.079 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:06:57.303 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:06:57.303 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:06:57.304 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:06:57.304 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:07:22.244 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:07:22.244 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:07:22.901 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:07:22.901 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:07:23.830 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:07:23.830 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:07:28.798 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:07:28.798 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:07:28.799 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:07:28.799 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:07:42.095 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:07:42.095 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:07:43.005 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:07:43.005 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:07:43.871 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:07:43.871 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:07:48.292 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:07:48.292 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:07:48.293 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:07:48.293 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:08:01.945 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:08:01.945 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:08:02.705 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:08:02.705 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:08:03.552 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:08:03.552 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:08:07.927 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:08:07.927 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:08:07.928 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:08:07.928 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:08:40.843 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:08:40.843 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:08:41.514 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:08:41.514 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:08:42.540 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:08:42.540 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:08:48.335 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:08:48.335 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:08:48.336 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:08:48.336 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:09:10.832 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:09:10.832 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:09:11.479 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:09:11.479 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:09:13.180 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:09:13.180 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:09:17.947 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:09:17.947 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:09:17.948 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:09:17.948 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:09:38.636 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:09:38.636 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:09:39.250 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:09:39.250 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:09:40.593 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:09:40.593 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:09:45.555 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:09:45.555 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:09:45.557 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:09:45.557 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:09:56.870 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:09:56.870 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:09:57.710 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:09:57.710 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:09:58.830 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:09:58.830 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:10:04.229 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:10:04.229 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:10:04.234 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:10:04.234 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:11:00.186 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:11:00.186 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:11:00.769 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:11:00.769 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:11:02.003 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:11:02.003 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:11:06.602 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:11:06.602 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:11:06.603 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:11:06.603 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:11:19.836 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:11:19.836 | INFO     | api_legal:startup_event:200 - Iniciando API Legal Mexicana...
+2025-08-13 20:11:20.815 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:11:20.815 | INFO     | api_legal:inicializar_clientes:68 - Cliente DeepSeek inicializado correctamente
+2025-08-13 20:11:22.079 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:11:22.079 | INFO     | api_legal:inicializar_clientes:76 - Cliente Pinecone inicializado correctamente
+2025-08-13 20:11:27.346 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:11:27.346 | INFO     | api_legal:inicializar_clientes:80 - Modelo de embeddings cargado correctamente
+2025-08-13 20:11:27.347 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente
+2025-08-13 20:11:27.347 | INFO     | api_legal:startup_event:204 - API Legal Mexicana iniciada correctamente

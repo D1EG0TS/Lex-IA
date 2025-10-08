@@ -1,0 +1,802 @@
+<html>
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+<meta name=Generator content="Microsoft Word 14 (filtered)">
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Calibri;
+	panose-1:2 15 5 2 2 2 4 3 2 4;}
+@font-face
+	{font-family:Tahoma;
+	panose-1:2 11 6 4 3 5 4 4 2 4;}
+@font-face
+	{font-family:"Arial Narrow";
+	panose-1:2 11 5 6 2 2 2 3 2 4;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+h1
+	{mso-style-link:"Título 1 Car";
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Cambria","serif";
+	color:#365F91;}
+h2
+	{mso-style-link:"Título 2 Car";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	page-break-after:avoid;
+	font-size:13.0pt;
+	font-family:"Cambria","serif";
+	color:#4F81BD;}
+h3
+	{mso-style-link:"Título 3 Car";
+	margin-top:10.0pt;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:0cm;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	page-break-after:avoid;
+	font-size:11.0pt;
+	font-family:"Cambria","serif";
+	color:#4F81BD;}
+p.MsoHeader, li.MsoHeader, div.MsoHeader
+	{mso-style-link:"Encabezado Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoFooter, li.MsoFooter, div.MsoFooter
+	{mso-style-link:"Pie de página Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-link:"Título Car";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:15.0pt;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:26.0pt;
+	font-family:"Cambria","serif";
+	color:#17365D;
+	letter-spacing:.25pt;}
+p.MsoTitleCxSpFirst, li.MsoTitleCxSpFirst, div.MsoTitleCxSpFirst
+	{mso-style-link:"Título Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	border:none;
+	padding:0cm;
+	font-size:26.0pt;
+	font-family:"Cambria","serif";
+	color:#17365D;
+	letter-spacing:.25pt;}
+p.MsoTitleCxSpMiddle, li.MsoTitleCxSpMiddle, div.MsoTitleCxSpMiddle
+	{mso-style-link:"Título Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	border:none;
+	padding:0cm;
+	font-size:26.0pt;
+	font-family:"Cambria","serif";
+	color:#17365D;
+	letter-spacing:.25pt;}
+p.MsoTitleCxSpLast, li.MsoTitleCxSpLast, div.MsoTitleCxSpLast
+	{mso-style-link:"Título Car";
+	margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:15.0pt;
+	margin-left:0cm;
+	border:none;
+	padding:0cm;
+	font-size:26.0pt;
+	font-family:"Cambria","serif";
+	color:#17365D;
+	letter-spacing:.25pt;}
+p.MsoAcetate, li.MsoAcetate, div.MsoAcetate
+	{mso-style-link:"Texto de globo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:8.0pt;
+	font-family:"Tahoma","sans-serif";}
+p.MsoNoSpacing, li.MsoNoSpacing, div.MsoNoSpacing
+	{margin:0cm;
+	margin-bottom:.0001pt;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:0cm;
+	margin-left:36.0pt;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
+	{margin-top:0cm;
+	margin-right:0cm;
+	margin-bottom:10.0pt;
+	margin-left:36.0pt;
+	line-height:115%;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";}
+p.MsoIntenseQuote, li.MsoIntenseQuote, div.MsoIntenseQuote
+	{mso-style-link:"Cita destacada Car";
+	margin-top:10.0pt;
+	margin-right:46.8pt;
+	margin-bottom:14.0pt;
+	margin-left:46.8pt;
+	line-height:115%;
+	border:none;
+	padding:0cm;
+	font-size:11.0pt;
+	font-family:"Calibri","sans-serif";
+	color:#4F81BD;
+	font-weight:bold;
+	font-style:italic;}
+span.MsoSubtleReference
+	{font-variant:small-caps;
+	color:#C0504D;
+	text-decoration:underline;}
+span.MsoBookTitle
+	{font-variant:small-caps;
+	letter-spacing:.25pt;
+	font-weight:bold;}
+span.EncabezadoCar
+	{mso-style-name:"Encabezado Car";
+	mso-style-link:Encabezado;}
+span.PiedepginaCar
+	{mso-style-name:"Pie de página Car";
+	mso-style-link:"Pie de página";}
+span.TextodegloboCar
+	{mso-style-name:"Texto de globo Car";
+	mso-style-link:"Texto de globo";
+	font-family:"Tahoma","sans-serif";}
+span.TtuloCar
+	{mso-style-name:"Título Car";
+	mso-style-link:Título;
+	font-family:"Cambria","serif";
+	color:#17365D;
+	letter-spacing:.25pt;}
+p.Estilo, li.Estilo, div.Estilo
+	{mso-style-name:Estilo;
+	mso-style-link:"Estilo Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+span.EstiloCar
+	{mso-style-name:"Estilo Car";
+	mso-style-link:Estilo;
+	font-family:"Arial","sans-serif";}
+span.Ttulo1Car
+	{mso-style-name:"Título 1 Car";
+	mso-style-link:"Título 1";
+	font-family:"Cambria","serif";
+	color:#365F91;
+	font-weight:bold;}
+span.Ttulo2Car
+	{mso-style-name:"Título 2 Car";
+	mso-style-link:"Título 2";
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-weight:bold;}
+span.Ttulo3Car
+	{mso-style-name:"Título 3 Car";
+	mso-style-link:"Título 3";
+	font-family:"Cambria","serif";
+	color:#4F81BD;
+	font-weight:bold;}
+span.CitadestacadaCar
+	{mso-style-name:"Cita destacada Car";
+	mso-style-link:"Cita destacada";
+	color:#4F81BD;
+	font-weight:bold;
+	font-style:italic;}
+p.Estilo2, li.Estilo2, div.Estilo2
+	{mso-style-name:Estilo2;
+	mso-style-link:"Estilo2 Car";
+	margin:0cm;
+	margin-bottom:.0001pt;
+	text-align:justify;
+	text-justify:inter-ideograph;
+	line-height:150%;
+	font-size:12.0pt;
+	font-family:"Arial","sans-serif";}
+span.Estilo2Car
+	{mso-style-name:"Estilo2 Car";
+	mso-style-link:Estilo2;
+	font-family:"Arial","sans-serif";}
+.MsoChpDefault
+	{font-family:"Calibri","sans-serif";}
+.MsoPapDefault
+	{margin-bottom:10.0pt;
+	line-height:115%;}
+ /* Page Definitions */
+ @page WordSection1
+	{size:612.0pt 792.0pt;
+	margin:70.85pt 3.0cm 70.85pt 3.0cm;}
+div.WordSection1
+	{page:WordSection1;}
+-->
+</style>
+
+</head>
+
+<body lang=ES-MX>
+
+<div class=WordSection1>
+
+<p class=Estilo align=center style='text-align:center'><b><span
+style='font-family:"Arial Narrow","sans-serif"'>REGLAMENTO DE LA MEDALLA AL
+MÉRITO CÍVICO &quot;EDUARDO NERI, LEGISLADORES DE 1913&quot;</span></b></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo align=right style='text-align:right'><span style='font-family:
+"Arial Narrow","sans-serif"'>Última reforma publicada en el DOF el 4 de abril
+de 2014.</span></p>
+
+<p class=Estilo align=right style='text-align:right'><span style='font-family:
+"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo align=right style='text-align:right'><span style='font-family:
+"Arial Narrow","sans-serif"'>Publicado en el DOF el 17 de febrero de 2009.</span></p>
+
+<p class=Estilo align=right style='text-align:right'><span style='font-family:
+"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Al margen
+un sello con el Escudo Nacional, que dice: Estados Unidos Mexicanos.- Cámara de
+Diputados del Congreso de la Unión.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>LA CÁMARA
+DE DIPUTADOS CON FUNDAMENTO EN LA FRACCIÓN I, DEL ARTÍCULO 77 DE LA
+CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, D E C R E T A :</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo align=center style='text-align:center'><b><span
+style='font-family:"Arial Narrow","sans-serif"'>REGLAMENTO DE LA MEDALLA AL
+MÉRITO CÍVICO &quot;EDUARDO NERI, LEGISLADORES DE 1913&quot;</span></b></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+1.- Este Reglamento tiene por objeto establecer los órganos, requisitos y
+procedimientos, para la entrega de la Medalla al Mérito Cívico &quot;Eduardo
+Neri, Legisladores de 1913&quot;, de la Cámara de Diputados.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+2.- Para los efectos de este Reglamento se entenderá por:</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Comisión:
+Comisión de Régimen, Reglamentos y Prácticas Parlamentarias.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Medalla:
+Medalla al Mérito Cívico &quot;Eduardo Neri, Legisladores de 1913&quot;.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Mesa
+Directiva: Mesa Directiva de la Cámara de Diputados.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Presidente
+o Presidencia: Presidente o Presidencia de la Mesa Directiva de la Cámara de
+Diputados.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Reglamento:
+Reglamento de la Medalla al Mérito Cívico Eduardo Neri, Legisladores de 1913.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Secretario:
+Secretario de la Mesa Directiva de la Cámara de Diputados.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+3.- La Medalla, se otorgará al ciudadano o ciudadana cuyos actos cívicos o
+políticos se distingan por servir a la colectividad nacional y a la República.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>(REFORMADO,
+D.O.F. 25 DE FEBRERO DE 2013)</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+4.- La Medalla tiene un solo grado y se otorgará, de acuerdo con el Decreto de
+su creación, en sesión solemne de la Cámara, el día 9 de octubre del segundo y
+tercer año de ejercicio de cada legislatura. La Cámara podrá acordar que la
+sesión solemne para entregar la Medalla se celebre un día distinto, pero
+siempre deberá ser en el mes de octubre de los años señalados en este artículo.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+5.- La Comisión, de acuerdo a la facultad que le otorga el artículo 40 de la
+Ley Orgánica del Congreso General de los Estados Unidos Mexicanos, será la que
+elabore el dictamen por el que la Cámara premiará al ciudadano o ciudadana
+mexicana que por sus méritos se haga acreedor a la Medalla.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+6.- La Comisión, en sus decisiones, se guiará por los más altos criterios para
+evaluar los actos o hechos éticos, políticos y de valor cívico, en cualquier
+ámbito, que tengan o hayan tenido repercusión nacional, de aquellos mexicanos y
+mexicanas que puedan ser distinguidos.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>(REFORMADO,
+D.O.F. 25 DE FEBRERO DE 2013)</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+7.- La Cámara deberá expedir la Convocatoria respectiva, a través de su Mesa
+Directiva y usando los medios de comunicación social disponibles:</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>I. Al
+iniciar la legislatura, en el mes de septiembre y el otorgamiento de la Medalla
+se realizará, a más tardar, en el mes de diciembre;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>II. En
+los siguientes dos años de ejercicio, en el segundo periodo ordinario de
+sesiones, durante el mes de octubre, preferentemente el día 9 del mes.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>(REFORMADO,
+D.O.F. 25 DE FEBRERO DE 2013)</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+8.- Los plazos para la recepción de candidaturas, serán los siguientes:</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>I. Al
+iniciar la legislatura comprenderá los meses de octubre y noviembre;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>II. Para
+el segundo y tercer año de ejercicio, el plazo abarcará los meses de abril a
+septiembre.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+9.- La convocatoria estará dirigida a la Cámara de Senadores, a la Suprema
+Corte de Justicia de la Nación, a la Presidencia de la República y las
+secretarías de estado, a los gobiernos de las entidades federativas, a los
+organismos autónomos, a las universidades nacionales públicas y privadas, a las
+asociaciones civiles técnicas, científicas y culturales, y demás instituciones
+representativas de la sociedad, para que propongan candidatos con méritos
+suficientes para recibir la presea.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+10.- La convocatoria deberá contener los requisitos, las fechas y los datos que
+les permitan a los ciudadanos conocer con claridad el desarrollo del proceso.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+11.- La Mesa Directiva dispondrá lo necesario para que la convocatoria sea
+publicada en la Página de Internet de la Cámara, en la Gaceta Parlamentaria de
+la Cámara y, en al menos tres diarios de circulación nacional. Asimismo,
+procurará que se difunda de manera oportuna en el Canal del Congreso, y en los
+medios electrónicos de cobertura nacional.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+12.- Las propuestas deberán presentarse por escrito, a través de una carta
+dirigida a los Secretarios de la Mesa Directiva. La carta deberá estar firmada
+por el titular o los titulares de la institución o instituciones que propongan
+a un candidato y deberá contener lo siguiente:</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>I. Datos
+generales de la institución promovente:</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>a)
+Nombre;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>b)
+Domicilio para recibir y oír notificaciones;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>c)
+Teléfono, y</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>d)
+Dirección de correo electrónico y página de Internet, en caso de contar con
+ellos.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>II. Datos
+generales del candidato:</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>a)
+Nombre;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>b) Edad;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>c)
+Profesión o actividad que desempeña;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>d)
+Domicilio para recibir y oír notificaciones;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>e)
+Teléfono, y</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>f)
+Dirección de correo electrónico y página de Internet, en caso de contar con
+ellos.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>III.
+Motivos por los que se promueve la candidatura.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+13.- Los documentos que deberán anexarse a la carta de propuesta son los
+siguientes:</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>I. Acta
+de nacimiento original;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>II.
+Currículum vite;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>III.
+Copia de comprobante del último grado de estudios, y</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>IV.
+Documentos o pruebas fehacientes que avalen los motivos de la candidatura.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+14.- Sólo podrán registrar candidatos las instituciones convocadas o las
+personas físicas, siempre y cuando, sean por lo menos tres las que propongan a
+algún ciudadano.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+15.- Serán aceptadas las propuestas que se envíen por correo certificado o
+mensajería, con acuse de recibo, siempre y cuando lleguen a las oficinas de la
+Mesa Directiva, antes de que concluya el plazo establecido en la convocatoria.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+16.- Las candidaturas que se envíen a la Comisión por mensajería, serán
+remitidas a la Mesa Directiva, con el fin de que cursen el proceso legal, y el
+acuse de recibo será enviado en forma simultánea a la institución proponente y
+al candidato, por los medios que disponga la Mesa Directiva.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+17.- El Presidente designará al Secretario que hará la revisión de los
+documentos y el registro correspondiente. El Secretario dará cuenta a la
+Presidencia de las propuestas aceptadas e inmediatamente las remitirá a la
+Comisión para su examen y dictamen correspondiente.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+18.- El Secretario tendrá cinco días hábiles, a partir de la fecha de recepción
+de la propuesta, para revisar si cumple los requisitos que establece el
+Reglamento.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+19.- Si el expediente no cumple los requisitos, el Secretario hará una
+advertencia al promotor para que subsane, corrija o complete el expediente,
+dentro de los cinco días hábiles posteriores a la recepción, apercibido de que
+en caso de no atender la notificación, el registro quedará sin efecto.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+20.- La advertencia a que se refiere el artículo anterior, se hará a través de
+medios escritos, por correo electrónico y por estrados, señalando el motivo de
+la advertencia. Si el Secretario no formula ninguna advertencia dentro de ese
+término, la inscripción y el registro quedarán firmes y el expediente pasará a
+la Comisión.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+21.- Si el expediente es subsanado, corregido o completado dentro de este
+término, la inscripción y el registro quedarán firmes y pasará a la Comisión;
+si no, la inscripción y el registro quedarán sin efecto.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+22.- Los expedientes cuya inscripción y registro hayan quedado sin efecto, en
+términos del artículo anterior, no podrán volver a presentarse para registro e
+inscripción durante esa legislatura.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+23.- El procedimiento señalado en los artículos 18, 19, 20 y 21 de este
+Reglamento se aplicará solamente a los expedientes que reciba el Secretario,
+cuando menos cinco días antes de que se venza el plazo de inscripción de
+candidaturas.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+24.- Los expedientes que reciba el Secretario, con menos de cinco días antes de
+que venza el plazo de inscripción de candidaturas, pasarán directamente a la
+etapa de examen de cumplimiento de requisitos sin derecho a que se subsane,
+corrija o complete.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+25.- El Secretario puede admitir como documentos y pruebas fehacientes que
+avalen los motivos de la candidatura, los expedidos por las autoridades de este
+país: fotografías, audio, video, notas periodísticas, archivos privados y, en
+general, todo aquel que documente tiempo, modo y lugar de las acciones del
+candidato propuesto.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+26.- Los documentos originales serán devueltos por la Comisión, al Secretario,
+y éste a su vez, al proponente o al candidato, dentro de los 30 días hábiles
+siguientes a la entrega de la Medalla, aún sin que medie solicitud, pero la
+Comisión guardará una copia que anexará a los informes correspondientes.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+27.- Los expedientes cuya inscripción y registro queden firmes pasarán a la
+etapa de resolución en la Comisión, donde los diputados que la integran
+elegirán mediante votación, en reunión plenaria, al candidato merecedor de la
+Medalla.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+28.- A los candidatos que pasen a la etapa de resolución y no resulten electos
+para recibir la Medalla se les reconocerá su participación en el proceso, a
+través de un documento por escrito. La Mesa Directiva podrá organizar un evento
+en el que se les entregue el reconocimiento y serán invitados a la sesión
+solemne en la que se otorgará la Medalla.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>(REFORMADO,
+D.O.F. 25 DE FEBRERO DE 2013)</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+29.- El pleno de la Cámara, previo dictamen de la Comisión, aprobará el decreto
+por que se conferirá la Medalla al ciudadano o ciudadana que se haya
+distinguido de manera relevante, sirviendo a la colectividad nacional, a la
+República y a la humanidad.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>(REFORMADO,
+D.O.F. 4 DE ABRIL DE 2014)</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+30.- Durante el mes de septiembre de cada año de ejercicio, la Mesa Directiva
+encargará a la Casa de Moneda de la Nación la elaboración de dos ejemplares de
+la Medalla que vaya a entregarse. Uno de los ejemplares será el que se entregue
+a la persona galardonada y el otro será entregado al Museo Legislativo para su
+exhibición al público en general, en un plazo no mayor a 30 días naturales,
+posteriores a la celebración de la sesión solemne.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+31.- El Decreto que acredita el otorgamiento de la Medalla estará autorizado
+con las firmas del Presidente y los Secretarios de la Cámara.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>(REFORMADO,
+D.O.F. 25 DE FEBRERO DE 2013)</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+32.- La Medalla, el Pergamino alusivo al dictamen de la Comisión, un ejemplar
+original del Decreto de la Cámara y la suma de dinero respectivos, serán
+entregados en sesión solemne que celebre la Cámara de Diputados para tal
+efecto, en la fecha prevista en el artículo 4 de este Reglamento.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>I. En la
+sesión podrán hacer uso de la palabra un diputado miembro de la Comisión, la
+persona homenajeada y el Presidente de la Mesa Directiva.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>II. La
+Junta de Coordinación Política propondrá al Pleno un acuerdo que señale los
+tiempos y el orden en que intervendrán los oradores.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>III. La
+Mesa Directiva determinará el protocolo de la sesión.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>IV. El
+Comité Editorial de la Cámara, en coordinación con la Biblioteca, publicará un
+folleto o un libro sobre la sesión solemne, ya sea a través de edición de la
+Cámara o en coedición con otra casa editorial.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+33.- El Decreto de la Cámara de Diputados por el que se otorga la Medalla será
+publicado en el Diario Oficial de la Federación, así como en, al menos tres
+diarios de circulación nacional. El Presidente dispondrá lo conducente, a
+efecto de cumplir con lo que señala el presente artículo.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Artículo
+34.- La resolución que apruebe el Pleno de la Cámara será inatacable.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>TRANSITORIOS</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Primero.-
+El presente Reglamento entrará en vigor al día siguiente de su publicación en
+el Diario Oficial de la Federación.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Segundo.-
+El presente Reglamento abroga el Reglamento de la Medalla al Mérito Cívico
+&quot;Eduardo Neri, Legisladores de 1913&quot;, de la H. Cámara de Diputados,
+publicado en el Diario Oficial de la Federación el 7 de mayo del 2002.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Tercero.-
+El presente Reglamento abroga el Acuerdo de la Mesa Directiva de la Comisión de
+Régimen, Reglamentos y Prácticas Parlamentarias, que detalla el procedimiento
+de entrega de la Medalla al Mérito Cívico &quot;Eduardo Neri, Legisladores de
+1913&quot;, publicado en la Gaceta Parlamentaria de la Cámara de Diputados, el
+4 de agosto de 2008.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>Cuarto.-
+El presente Reglamento no puede ser modificado, derogado o abrogado, en ningún
+caso, por acuerdos parlamentarios. Cuando surja un hecho o acto no previsto por
+este Reglamento, la Mesa Directiva podrá acordar lo conducente para dar certeza
+al proceso.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>SALON DE
+SESIONES DE LA CAMARA DE DIPUTADOS DEL HONORABLE CONGRESO DE LA UNION.- México,
+D.F., a 12 de febrero de 2009.- Dip. César Horacio Duarte Jáquez, Presidente.-
+Dip. Rosa Elia Romero Guzman, Secretaria.- Rúbricas.</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+<p class=Estilo><span style='font-family:"Arial Narrow","sans-serif"'>&nbsp;</span></p>
+
+</div>
+
+</body>
+
+</html>
