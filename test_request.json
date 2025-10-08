@@ -1,8 +1,0 @@
-{
-  "pregunta": "¿Qué es el amparo?",
-  "tipo_lenguaje": "mixto",
-  "incluir_fundamentos": true,
-  "max_documentos": 3,
-  "umbral_relevancia": 0.7,
-  "incluir_metadatos": true
-}
